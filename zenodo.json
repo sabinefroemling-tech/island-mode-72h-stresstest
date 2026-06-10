@@ -1,0 +1,8 @@
+{
+  "title": "Island-Mode-72h-Stresstest / Island-Mode 72h Stress Test",
+  "description": "Browser-based, bilingual (DE/EN) self-assessment: can a plant keep producing for 72 hours without office IT? Walks fourteen hidden dependencies where island operation fails in practice (directory services, DNS/NTP, MES/ERP order data, licence servers, label and dispatch printing, AV/EDR consoles, OEM support paths, restore tooling, telephony and alerting, process data buffering, manual operation skills, offline documentation, physical access, consumable reserves). Yields a verdict (island-capable / degraded / halt after x hours), a printable island-mode profile sheet per plant and an action list prioritised by hours-to-impact, exportable as CSV; optional downtime cost per hour to express the risk in euros. Companion to the book 'ISMS für die Industrie' (Springer Vieweg, 2026), ch. 24.3.",
+  "creators": [{"name": "Frömling, Sabine"}],
+  "license": "CC-BY-NC-ND-4.0",
+  "upload_type": "software",
+  "keywords": ["OT security", "island mode", "business continuity", "resilience", "ISMS", "NIS2", "ICS"]
+}
